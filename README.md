@@ -28,3 +28,4 @@
   + Currently Tested on Fedora 25 / KDE Neon Plasma 5.8
   + Untested on < Plasma 5.8
   + It is an alpha release expect bugs.. Post bugs in this GIT Repo.
+  + Works only with default Plasma Themes ( Breeze & Breeze Dark ). 
