@@ -3,7 +3,7 @@
 
 1. Installation Requirements
 
-  + This plasmoid requires Mycroft Core Installed
+  + This plasmoid requires Mycroft Core Installed from http://github.com/MycroftAi/
   + This plasmoid requires Mycroft Core to be located in your Home Folder. Example "/home/$USER/mycroft-core"
   + Download / Clone Mycroft Plasmoid from this REPO.
   + Unzip to folder if Downloaded
